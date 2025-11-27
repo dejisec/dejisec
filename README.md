@@ -39,6 +39,7 @@
 
 | Project | Description |
 |----------|-------------|
+| [**cendre**](https://github.com/dejisec/cendre) | 🔥 zero‑knowledge, burn‑after‑reading secret sharing service |
 | [**tattletale-rs**](https://github.com/dejisec/tattletale-rs) | 🦀 Rust-based NTDS dump password analysis tool |
 | [**azure-function-redirector**](https://github.com/dejisec/azure-function-redirector) | ☁️ Serverless redirector for network pivots |
 | [**ad-lab**](https://github.com/dejisec/ad-lab) | 🧩 Automated AD lab provisioning with attack/playbook recipes |
