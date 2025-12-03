@@ -49,7 +49,13 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dejisec&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
+  <img alt="Profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dejisec&theme=github_dark" />
+
   <br/>
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dejisec&layout=compact&theme=dark&hide_border=true"/>
+
+  <img alt="GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dejisec&theme=github_dark" />
+
+  <br/>
+
+  <img alt="Top Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dejisec&theme=github_dark" />
 </p>
